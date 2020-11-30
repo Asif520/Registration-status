@@ -1,0 +1,84 @@
+[
+    {
+        "ID": "191-15-1026",
+        "Name": "Md Yasin Arafat",
+        "Registration Staus": "Complete",
+        "Course List": [
+            "Numerical Method, CSE235, UC-A",
+            "Digital Electronics, CSE223, UC-A",
+            "OOP(ii), CSE233, UC-A"
+        ]
+    },
+    {},
+    {
+        "ID": "191-15-1022",
+        "Name": "Robiul Awal",
+        "Registration Staus": "Pending",
+        "Course List": [
+            "Numerical Method, CSE235, UC-A",
+            "Digital Electronics, CSE223, UC-A",
+            "OOP(ii), CSE233, UC-A"
+        ]
+    },
+    {
+        "ID": "191-15-1027",
+        "Name": "Md Ibrahim",
+        "Registration Staus": "Complete",
+        "Course List": [
+            "Numerical Method, CSE235, UC-A",
+            "Digital Electronics, CSE223, UC-A",
+            "OOP(ii), CSE233, UC-A"
+        ]
+    },
+    {
+        "ID": "191-15-1033",
+        "Name": "Ridwanul Haque",
+        "Registration Staus": "Complete",
+        "Course List": [
+            "Numerical Method, CSE235, UC-A",
+            "Digital Electronics, CSE223, UC-A",
+            "OOP(ii), CSE233, UC-A"
+        ]
+    },
+    {
+        "ID": "191-15-1037",
+        "Name": "Shimul Islam Sabbir",
+        "Registration Staus": "Complete",
+        "Course List": [
+            "Numerical Method, CSE235, UC-A",
+            "Digital Electronics, CSE223, UC-A",
+            "OOP(ii), CSE233, UC-A"
+        ]
+    },
+    {
+        "ID": "191-15-1046",
+        "Name": "Foisal Ahmmed Shagor",
+        "Registration Staus": "Complete",
+        "Course List": [
+            "Numerical Method, CSE235, UC-A",
+            "Digital Electronics, CSE223, UC-A",
+            "OOP(ii), CSE233, UC-A"
+        ]
+    },
+    {},
+    {
+        "ID": "191-15-1018",
+        "Name": "Israth Rahaman",
+        "Registration Staus": "Pending",
+        "Course List": [
+            "Numerical Method, CSE235, UC-A",
+            "Digital Electronics, CSE223, UC-A",
+            "OOP(ii), CSE233, UC-A"
+        ]
+    },
+    {},
+    {
+        "ID": "191-15-1021",
+        "Name": "Md Asif Khan",
+        "Registration Staus": "Complete",
+        "Course List": [
+            "Numerical Method, CSE235, UC-A",
+            "Digital Electronics, CSE223, UC-A"
+        ]
+    }
+]

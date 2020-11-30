@@ -1,1 +1,1 @@
-This is a cosole based simple project to show registration status of students 
+This is a console based simple project to show registration status of students 
